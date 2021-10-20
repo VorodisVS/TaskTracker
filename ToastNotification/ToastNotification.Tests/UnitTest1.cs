@@ -9,8 +9,7 @@ namespace ToastNotification.Tests
         [Fact]
         public void Test1()
         {
-            ToastNotification t = new ToastNotification();
-            t.Show();
+           
         }
     }
 }
